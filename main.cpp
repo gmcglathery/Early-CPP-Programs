@@ -35,7 +35,7 @@ int main()
 
 float fallingDistance (float g, float t)
 {
-    float d = ((.5)*g)*pow(t,2);
+    float d = ((.5) * g) * pow(t, 2);
     return d;
 }
 
